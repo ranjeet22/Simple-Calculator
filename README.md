@@ -56,12 +56,6 @@ calculator/
 4. `C` button clears the display with `clearDisplay()`.
 
 ---
-
-## 🔒 Safety Note
-
-The calculator uses JavaScript's built-in `eval()` function, which works for this simple case. However, for production apps, **never use `eval()` with user input** due to potential security risks.
----
-
 ## 📸 Screenshot
 
 ### Works with all kind of operations 
