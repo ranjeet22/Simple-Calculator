@@ -3,14 +3,16 @@
 A stylish and responsive **Calculator Web App** built using **HTML**, **CSS**, and **JavaScript**.  
 This project is ideal for beginners learning DOM manipulation, layout design, and event handling in the browser.
 
-![Calculator Preview](./assets/calculator-preview.png) <!-- Replace with actual path if hosted -->
+---
+
+## Calculator Preview
+> <img width="924" height="1069" alt="Image" src="https://github.com/user-attachments/assets/1d242283-4e47-46a0-acf9-7066354905fb" /> <!-- Replace with actual path if hosted -->
 
 ---
 
 ## 📱 Live Preview
 
-> 🔗 **[Open Calculator in Browser](http://127.0.0.1:5500/calculator/index.html)**  
-_(Make sure you're running it via a local development server like Live Server in VS Code)_
+> 🔗 https://simple-calculator-ranjeet.netlify.app/
 
 ---
 
@@ -58,21 +60,14 @@ calculator/
 ## 🔒 Safety Note
 
 The calculator uses JavaScript's built-in `eval()` function, which works for this simple case. However, for production apps, **never use `eval()` with user input** due to potential security risks.
-
----
-
-## 🎯 Future Improvements
-
-- Add keyboard support (typing instead of clicking)
-- Improve accessibility with ARIA roles
-- Add parentheses and more advanced operations
-- Implement custom expression parser (to avoid using `eval()`)
-
 ---
 
 ## 📸 Screenshot
 
-> ![Calculator UI](./assets/f0fa3fef-0000-4529-a92b-2336f6dd0313.png)
+### Works with all kind of operations 
+> <img width="945" height="1059" alt="Image" src="https://github.com/user-attachments/assets/90e7d020-a2a4-48bf-94a2-cb2c3c98c0d6" />
+---
+> <img width="968" height="1046" alt="Image" src="https://github.com/user-attachments/assets/8c5e71b7-39b0-4965-a067-b879f92c26d9" />
 
 ---
 
